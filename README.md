@@ -1,6 +1,5 @@
 
-# Firehouse-0ptimus-Battleground-June-2019
-
+# Firehouse-0ptimus-Battleground-September-2019
 This repo contains outputs from our Michigan, Pennsylvania, and Wisconsin Likely Voters Poll conducted September 7-9, 2019.
 
 
